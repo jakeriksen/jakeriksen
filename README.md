@@ -2,7 +2,7 @@
 <h3 align="center">A mechanical engineering student from Norway</h3>
 
 
-<a href="https://www.buymeacoffee.com/jakeriksen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/jakeriksen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" style="align:center" ></a>
 <!--
 **jakeriksen/jakeriksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
