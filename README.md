@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Aleksander</h1>
-<h3 align="center">A mechanical engineering student from Norway</h3>
+<h3 align="center">A mechanical engineer from Norway</h3>
 <p align="center">
   I like coffee
 </p>
@@ -13,17 +13,18 @@
 <p align="center">
   and programming
 </p>
+<!--
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jakeriksen&count_private=true&show_icons=true&theme=tokyonight&hide=stars" />
 </a>
 </div>
+-->
 
 
 
 <p align="center">
   apparently 
 </p>
-
 
 
